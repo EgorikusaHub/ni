@@ -1,1 +1,1 @@
-print("porno")
+StarterGui:SetCore("DevConsoleVisible", true)
